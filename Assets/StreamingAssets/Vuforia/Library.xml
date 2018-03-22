@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Catalogue3" size="1.000000 0.666667" />
+    <ImageTarget name="BulletinBoard1" size="1.000000 0.239607" />
+    <ImageTarget name="Catalogue4" size="1.000000 0.582501" />
+    <ImageTarget name="Catelogue2" size="1.000000 1.500000" />
+    <ImageTarget name="Catalogue1" size="1.000000 1.500000" />
+    <ImageTarget name="Cse3" size="1.000000 0.881056" />
+    <ImageTarget name="Cse2" size="1.000000 0.523243" />
+    <ImageTarget name="Cse1" size="1.000000 0.593618" />
+    <ImageTarget name="DigitalLibrary3" size="1.000000 0.343480" />
+    <ImageTarget name="DigitalLibrary2" size="1.000000 0.326831" />
+    <ImageTarget name="DigitalLibrary1" size="1.000000 0.175283" />
+    <ImageTarget name="ECE" size="1.000000 0.384432" />
+    <ImageTarget name="EEE" size="1.000000 0.602676" />
+    <ImageTarget name="GateAndGre2" size="2.000000 1.333333" />
+    <ImageTarget name="GateAndGre1" size="2.000000 1.251877" />
+    <ImageTarget name="Gre1" size="1.000000 1.452128" />
+    <ImageTarget name="Gate1" size="1.000000 1.370757" />
+    <ImageTarget name="Library2" size="2.000000 0.285972" />
+    <ImageTarget name="Library1" size="2.000000 0.303474" />
+    <ImageTarget name="LibraryBoard4" size="2.000000 2.636694" />
+    <ImageTarget name="LibraryBoard3" size="2.000000 2.670241" />
+    <ImageTarget name="LibraryBoard2" size="2.000000 1.345284" />
+    <ImageTarget name="LibraryDetails1" size="1.000000 0.666667" />
+    <ImageTarget name="ME2" size="1.000000 0.410952" />
+    <ImageTarget name="ME1" size="1.000000 0.422635" />
+    <ImageTarget name="MonaLisa2" size="1.000000 1.716241" />
+    <ImageTarget name="MonaLisa1" size="1.000000 1.395270" />
+    <ImageTarget name="PotPainting2" size="1.000000 1.321239" />
+    <ImageTarget name="PotPainting1" size="1.000000 1.324160" />
+    <ImageTarget name="XeroGraph" size="1.000000 0.205087" />
+    <ImageTarget name="ReferenceBookBoard" size="1.000000 0.557506" />
+    <ImageTarget name="VNRLogo2" size="1.000000 0.948349" />
+    <ImageTarget name="VNRLogo1" size="1.000000 0.947434" />
+    <ImageTarget name="VNRLogo3" size="1.000000 0.948349" />
+  </Tracking>
+</QCARConfig>
